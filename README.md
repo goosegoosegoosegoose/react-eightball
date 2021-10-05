@@ -1,3 +1,6 @@
+# Whats new?
+React useState. handleClick/onClick. Also used an inline style for backgroundColor. Would have assumed the list of answers.color would return a string, but I had to put it in a string for it to work.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
